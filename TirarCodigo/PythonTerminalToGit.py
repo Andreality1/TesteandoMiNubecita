@@ -47,7 +47,6 @@
 
 
 import os
-import numpy as np
 
 os.system('dir')
 pathTesting = os.getcwd()
@@ -76,6 +75,22 @@ print(pathDirectory)
 
 #Este for me lista todos los subdirectorios del directorio en el que estoy trabajando.
 #En forma de string
+#A todo momento estar pensando en el jueguito.
+#
+#
+#Como habilito el desarrllo del codigo
+#Que clase de opciones yo puedo situar.
+#
+#
+#
+#
+#
+#
+#
+#
+
+#Me gusta mucho jugar jueguitos
+
 for i in os.listdir(pathDirectory):
     
     #Este comando me posiciona en el directorio que yo quiero actualizar
@@ -153,11 +168,10 @@ for i in os.listdir(pathDirectory):
 
 
 
-    # for i in listfileVersion:
-    #     print(i)
-    # print(os.getcwd())
-
-    # print(i)
+# for i in listfileVersion:
+#     print(i)
+# print(os.getcwd())
+# print(i)
 #esto es el directorio
 #
 stringDirectory = os.getcwd()
@@ -170,3 +184,20 @@ print(logString)
 #El tiempo le va da valor.
 #Que muchas personas lo sepan manejar
 #
+
+#Es tirar pero muy rapido muy veloz, altas velocidades, conceptos extremadamente altos, entendiendo como el comportamiento puede ayudar a que nuestro saber se pueda formular
+#el tipo de conciencia que nos permite maximizar el modelo que yo quiero vivir, el tipo de realidad que me permite establecer mejoramiento en el ahora.
+#que clase de procesos yo puedo estructurar con el unico fin de determinar la accion que motiva el movimineto de las rutas que me permiten abstraer todo el ser a un grado mas especifico
+#un grado mas alto un grado el cual me permita a mi situarme en el punto mas alto de mi desarrollo cientifico, como yo puedo promover el concepto que me hace mas evolutivo
+#the meaning inside the meaning, the ability to deploy more ways to interact, more ways to behave, more ways to describe the present time, how i can acheive a new sensation in my own
+#world, how i can promote the qualities inside the whole movement.
+#En el otras me jugar tirando musica, y me validad, de la manera mas real, me validan con el isntinto humano, me validan con la capacidad de sentir la atraccion del feeling.
+#
+#maybe im trying to playing maybe iam understanding my own behavior, my own way to perceive and detail the now.
+#my own way to create whole bussinesses
+#Yo quiero ver gente loquisima todo el tiempo, gente detallando todos esos componentes que promueven como el saber se construye.
+
+
+
+#When i am understanding the power and the qualities around the psyche i am trying to deploy, how to define and characterize the properties around my inner thougt
+#when i am feeling capable to share a concept to you
